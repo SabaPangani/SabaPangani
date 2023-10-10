@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/saba-pangani-2b32201a3/, spangani37@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/saba-pangani-2b32201a3/ spangani37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
