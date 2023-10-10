@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saba</h1>
 <h3 align="center">A frontend developer from Georgia</h3>
-<img src="https://i.pinimg.com/564x/2d/b3/08/2db30833814ca4ae61c54979eece94da.jpg"/>
+<img width="100" height="100" src="https://i.pinimg.com/564x/2d/b3/08/2db30833814ca4ae61c54979eece94da.jpg"/>
 - 📫 How to reach me **https://www.linkedin.com/in/saba-pangani-2b32201a3/, spangani37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
