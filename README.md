@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saba</h1>
-<h3 align="center">A frontend developer from Georgia</h3>
+<h3 align="center">A developer from Georgia</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/saba-pangani-2b32201a3/ spangani37@gmail.com**
 
